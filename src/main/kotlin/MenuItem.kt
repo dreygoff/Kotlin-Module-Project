@@ -1,2 +1,1 @@
-class MenuItem(val name: String) {
-}
+class MenuItem(val name: String)
